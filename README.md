@@ -140,7 +140,8 @@ the student arrays are sorted alphabetically. For instance:
 
 ```ruby
 school.sort
-# => {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}
+# => 
+{9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}
 ```
 
 Note that since hashes are unordered by nature, the order of the keys does not
